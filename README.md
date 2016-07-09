@@ -12,8 +12,9 @@ Hopefully this will inspire the developers and others to make their own UI mods.
 
 ## Screenshots
 
-[![2014-12-31_00001.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2014-12-31_00001.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2014-12-31_00001.jpg)
+[![2014-12-31_00002.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2014-12-31_00002.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2014-12-31_00002.jpg)
 
+[![2015-01-02_00001.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2015-01-02_00001.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentUI/master/Screenshots/2015-01-02_00001.jpg)
 
 ## Installation
 
