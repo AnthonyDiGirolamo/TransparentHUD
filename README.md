@@ -14,6 +14,8 @@ Uninstall by verifying the integrity of the game cache in Steam, that will resto
 
 Enjoy!
 
-reddit discussion: http://www.reddit.com/r/spaceengineers/comments/2qzegu/transparent_gui/
-Keen SWH Forum discussion: http://forum.keenswh.com/threads/transparent-ui-v2.7226247/
-Steam Forum discussion: http://steamcommunity.com/app/244850/discussions/0/627456486756963545/
+- reddit discussion: http://www.reddit.com/r/spaceengineers/comments/2qzegu/transparent_gui/
+
+- Keen SWH Forum discussion: http://forum.keenswh.com/threads/transparent-ui-v2.7226247/
+
+- Steam Forum discussion: http://steamcommunity.com/app/244850/discussions/0/627456486756963545/
