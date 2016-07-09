@@ -1,6 +1,6 @@
 # TransparentHUD
 
-Installation
+## Installation
 
 Copy the GUI folder into
 
