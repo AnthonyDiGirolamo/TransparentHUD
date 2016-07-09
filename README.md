@@ -1,4 +1,4 @@
-# TransparentHUD
+# Transparent UI
 
 ## Installation
 
