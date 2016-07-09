@@ -1,5 +1,7 @@
 # Transparent UI
 
+This is a texture mod for SpaceEngineers to make the HUD UI transparent.
+
 ## Installation
 
 Copy the GUI folder into
