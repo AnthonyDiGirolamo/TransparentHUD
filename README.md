@@ -33,3 +33,8 @@ Enjoy!
 - Keen SWH Forum discussion: http://forum.keenswh.com/threads/transparent-ui-v2.7226247/
 
 - Steam Forum discussion: http://steamcommunity.com/app/244850/discussions/0/627456486756963545/
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
